@@ -21,7 +21,7 @@ An Excel-based analysis of pharmaceutical sales covering revenue trends, product
 - Top [3] products generated [49.55%] of total revenue
 - Peak sales months: [May]
 - Highest-revenue region: [united states] ([23.94%] of total)
-- Top sales rep: [Rajesh patel with [23.46%]
+- Top sales rep: [Rajesh patel] with [23.46%]
 
 ## Files
 - `pharma data REYHANE.xlsx`: raw data, pivot tables, charts, and KPI dashboard
